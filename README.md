@@ -2,9 +2,9 @@
 Code and helpfiles for KaleideKonch
 ----------------------------------------------
 
-The Kaleidekonch Project
-The Kaleidekonch Project
+
 Project Overview
+
 The Kaleidekonch project is a groundbreaking fusion of natural materials and advanced technology
 to create a unique and expressive musical instrument. Drawing inspiration from ancient Indigenous
 practices of using konch shells as instruments, this project reimagines these traditions for the
