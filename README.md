@@ -24,7 +24,7 @@ Central to this vision is a harmonious blend of tradition and innovation. The Ka
 advanced sensor technologies to transform the konch into an interactive, multisensory instrument
 while preserving its natural aesthetic and acoustic qualities.
 Key Features
-Page 1
+
 The Kaleidekonch Project
 - Sensor Integration: The Kaleidekonch is equipped with an array of sensors, including:
 - An electret microphone for breath input.
@@ -47,7 +47,7 @@ Completed Milestones
 1. Valve Development:
 - Engineered spring-based valves with over an inch of depth for mechanical precision and ease of
 use.
-Page 2
+
 The Kaleidekonch Project
 - Incorporated embedded sensors into the valve system to capture continuous and nuanced gestural
 data.
@@ -70,7 +70,7 @@ Future Directions
 - Interior Modeling: Refining the internal geometry of the konch shell to optimize airflow and acoustic
 resonance while respecting its natural spiral structure. This approach draws on research from Le,
 Ghazlan, and Ngo's study, 3D Printing and Numerical Modelling of Konch-Inspired Lamellar
-Page 3
+
 The Kaleidekonch Project
 Structures (2019), which informs the reconstruction of the konch's complex internal pathways to
 enhance performance capabilities.
@@ -84,6 +84,7 @@ complement the kaleidic konch aesthetic, offering a sonically rich and visually 
 of the instrument's creative and artistic scope.
 - Educational Outreach: Creating tutorial materials and open-ended resources to encourage both
 new and experienced performers to engage with the instrument.
+
 Conclusion
 The Kaleidekonch represents a bold step forward in reimagining natural instruments for the digital
 age. By integrating tactile, haptic, and digital feedback systems into the organic framework of a
@@ -91,4 +92,4 @@ konch shell, the project creates a versatile instrument that bridges ancient tra
 innovation. The Kaleidekonch fosters inclusivity, creativity, and a deep connection between
 performer and instrument, inviting musicians to explore its sonic potential and expand their
 expressive horizons.
-Page 4
+
